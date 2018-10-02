@@ -1,5 +1,5 @@
-# Gerald
-Bibliothèque participative d’objets graphiques trouvés
+# Gérald
+Collection participative d’objets graphiques trouvés
 
 Gérald est un espace de partage et d’exposition d’objets imprimés trouvés. La provenance n’a aucune importance, tant qu’il sucite un intéret chez sondépositaire. Il est basé sur un principe de fabrication simple et peu coûteuse et une totale auto-gestion: lorsque l’espace d’exposition vient a manquer sur le meuble, les utilisateurs sont libres de construire un nouveau module en complément des précédents; ce qui rend l’objet évolutif.
 Il est destiné aux lieux et institutions culturelles sociaux. Là où il peut manquer d’un espace de ce type sans hiérarchie ni jugement de valeur.
